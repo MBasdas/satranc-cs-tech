@@ -1,0 +1,4 @@
+Tahta			Beyaz			Siyah
+board1			134.5			133.5
+board2			123.0			116.0
+board3			109.0			108.0
